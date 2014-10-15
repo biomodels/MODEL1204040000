@@ -1,3 +1,21 @@
+# MODEL1204040000: Houser2012_pheromone_Ste12
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/MODEL1204040000.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/MODEL1204040000.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -21,4 +39,5 @@ expressing elevated amounts of Ste12. Finally, our model reveals a novel
 mechanism for robust perfect adaptation through protein-protein interactions
 that enhance complex stability. This mechanism allows the transcriptional
 response to act on a shorter time scale than upstream pathway activity.
+
 
